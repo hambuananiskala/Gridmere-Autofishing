@@ -1,0 +1,6 @@
+Gridmere AutoFishing Android v3.4 beta
+
+Updated to match the PC v3.4 progress trigger.
+APK NOT BUILT: Android SDK and Gradle are not installed in the current build environment,
+and network access to download the Android build toolchain is unavailable.
+Use the included GitHub Actions workflow or Android Studio instructions in README_ID.txt.
